@@ -8,7 +8,7 @@ Whether you want to display emotions on an OLED, control servo motors, or add ne
 
 ## 🚀 Features
 
-- 🎨 **OLED facial expressions** – Let your robot show emotions in real-time (cool enough to show off)
+- 🎨 **OLED facial expressions** – Let your robot show emotions in real-time (cool enough to show off to your crush!!)
 - 🛠️ **Servo-controlled movement** – Simple animations, easy to expand
 - 🔌 **Modular design** – Add-on sensors (temperature, distance, etc.)
 - 👶 **Beginner-friendly** – Clean architecture, well-commented code
