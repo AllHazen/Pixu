@@ -4,7 +4,8 @@
 
 class Easing{
   public: 
-    
+  Easing() = delete; // mencegah membuat objek dari class ini
+
   static float easeIn(float t){
     return t*t; // ketika t kecil maka return kecil, dan sebaliknya
   }
